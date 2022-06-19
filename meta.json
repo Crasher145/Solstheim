@@ -1,0 +1,20 @@
+{
+    "ModName": "Solstheim",
+    "AuthorName": "",
+    "Description": "",
+    "Version": 1,
+    "BuildsInfo": [
+        {
+            "Platform": 1,
+            "PluginVersion": "1.3.3",
+            "GameVersion": "1.1.102r19"
+        },
+        {
+            "Platform": 3,
+            "PluginVersion": "1.3.3",
+            "GameVersion": "1.1.102r19"
+        }
+    ],
+    "ModSourceUrl": "",
+    "Id": "51294e82f19d4d9a960f00ebdc2cb52d"
+}
