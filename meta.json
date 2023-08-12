@@ -5,6 +5,16 @@
     "Version": 1,
     "BuildsInfo": [
         {
+            "Platform": 4,
+            "PluginVersion": "1.3.3",
+            "GameVersion": "1.1.102r19"
+        },
+        {
+            "Platform": 5,
+            "PluginVersion": "1.3.3",
+            "GameVersion": "1.1.102r19"
+        },
+        {
             "Platform": 1,
             "PluginVersion": "1.3.3",
             "GameVersion": "1.1.102r19"
